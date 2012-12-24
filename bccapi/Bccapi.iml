@@ -13,7 +13,13 @@
           <root url="jar://$MODULE_DIR$/out/bccapi.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/out/bccapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/out/bccapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/out/bccapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/out/bccapi.jar!/" />
+          <root url="jar://$MODULE_DIR$/out/bccapi.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
