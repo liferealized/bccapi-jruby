@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bccapi/Bccapi.iml" filepath="$PROJECT_DIR$/bccapi/Bccapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitlib/Bitlib.iml" filepath="$PROJECT_DIR$/bitlib/Bitlib.iml" />
+    </modules>
+  </component>
+</project>
+

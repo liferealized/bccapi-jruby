@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<project name="BCCAPI" default="all" basedir=".">
+
+	<target name="bitlib">
+		<ant dir="bitlib" antfile="build.xml" />
+	</target>
+
+	<target name="bitlib-clean">
+		<ant dir="bitlib" target="clean" antfile="build.xml" />
+	</target>
+
+	<target name="bccapi">
+		<ant dir="bccapi" antfile="build.xml" />
+	</target>
+
+	<target name="bccapi-clean">
+		<ant dir="bccapi" target="clean" antfile="build.xml" />
+	</target>
+
+	<target name="all" depends="bitlib,bccapi" />
+
+	<target name="clean" depends="bitlib-clean,bccapi-clean" />
+
+</project>

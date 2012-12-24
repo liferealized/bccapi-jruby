@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 54
+bin
+build
+seed.bin
+test-seed.bin
+closed-test-seed.bin
+
+END

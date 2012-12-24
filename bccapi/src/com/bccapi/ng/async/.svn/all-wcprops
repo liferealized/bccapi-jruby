@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/ng/async
+END
+AsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/ng/async/AsyncTask.java
+END
+CallbackRunnerInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/ng/async/CallbackRunnerInvoker.java
+END
+AsynchronousApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/ng/async/AsynchronousApi.java
+END
+ApiCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/ng/async/ApiCache.java
+END
+AbstractCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/ng/async/AbstractCallbackHandler.java
+END

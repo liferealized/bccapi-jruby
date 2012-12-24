@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/legacy
+END
+DeterministicECKeyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/legacy/DeterministicECKeyManager.java
+END
+HmacPRNG.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/legacy/HmacPRNG.java
+END
+SeedManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/legacy/SeedManager.java
+END
+ECKeyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/65/trunk/bccapi/src/com/bccapi/legacy/ECKeyManager.java
+END
